@@ -35,7 +35,7 @@ function pesquisar() {
         </div>
       `;
       }
-     if(!resultados,!tags){
+     if(!resultados){
       resultados = "<p>Filme ou série não foi encontrado<p>"
      } 
     } 
