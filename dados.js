@@ -105,60 +105,60 @@ let dados = [
         tags: "drama, social, humanismo"
       },
       {
-        titulo: "O Que é Isso, Companheiro?",
-        descricao: "Um documentário que retrata a luta armada no Brasil durante a ditadura militar.",
-        link: "https://www.adorocinema.com/filmes/filme-14542/",
-        linkcritica: "https://www.imdb.com/title/tt0108090/",
-        tags: "documentário, história, política"
+          titulo: "O Que é Isso, Companheiro?",
+          descricao: "Um documentário que retrata a luta armada no Brasil durante a ditadura militar.",
+          link: "https://www.adorocinema.com/filmes/filme-14542/",
+          linkcritica: "https://www.imdb.com/title/tt0108090/",
+          tags: "documentário, história, política"
       },
       {
-        titulo: "O Auto da Compadecida",
-        descricao: "Uma adaptação cinematográfica da peça de Ariano Suassuna, que conta a história de João Grilo e Chicó em um mundo fantástico e cheio de humor.",
-        link: "https://www.adorocinema.com/filmes/filme-24070/",
-        linkcritica: "https://www.imdb.com/title/tt0332452/",
-        tags: "comédia, fantasia, regional"
+          titulo: "O Auto da Compadecida",
+          descricao: "Uma adaptação cinematográfica da peça de Ariano Suassuna, que conta a história de João Grilo e Chicó em um mundo fantástico e cheio de humor.",
+          link: "https://www.adorocinema.com/filmes/filme-24070/",
+          linkcritica: "https://www.imdb.com/title/tt0332452/",
+          tags: "comédia, fantasia, regional"
       },
       {
-        titulo: "Que Horas Ela Volta?",
-        descricao: "Um drama social que aborda a questão das empregadas domésticas no Brasil, mostrando as relações entre patrões e empregadas e as dificuldades da vida na periferia.",
-        link: "https://www.adorocinema.com/filmes/filme-250143/",
-        linkcritica: "https://www.imdb.com/title/tt4132732/",
-        tags: "drama, social, desigualdade"
+          titulo: "Que Horas Ela Volta?",
+          descricao: "Um drama social que aborda a questão das empregadas domésticas no Brasil, mostrando as relações entre patrões e empregadas e as dificuldades da vida na periferia.",
+          link: "https://www.adorocinema.com/filmes/filme-250143/",
+          linkcritica: "https://www.imdb.com/title/tt4132732/",
+          tags: "drama, social, desigualdade"
       },
       {
-        titulo: "Tropa de Elite",
-        descricao: "Um filme que retrata a violência policial no Rio de Janeiro e as dificuldades de combater o crime organizado.",
-        link: "https://www.adorocinema.com/filmes/filme-34890/",
-        linkcritica: "https://www.imdb.com/title/tt0450259/",
-        tags: "ação, policial, violência"
+          titulo: "Tropa de Elite",
+          descricao: "Um filme que retrata a violência policial no Rio de Janeiro e as dificuldades de combater o crime organizado.",
+          link: "https://www.adorocinema.com/filmes/filme-34890/",
+          linkcritica: "https://www.imdb.com/title/tt0450259/",
+          tags: "ação, policial, violência"
       },
       {
-        titulo: "O Cheiro do Ralo",
-        descricao: "Um drama psicológico que acompanha a história de um jovem que retorna para sua cidade natal e se envolve em uma rede de crimes e mistérios.",
-        link: "https://www.adorocinema.com/filmes/filme-255644/",
-        linkcritica: "https://www.imdb.com/title/tt4323710/",
-        tags: "suspense, drama, psicológico"
+          titulo: "O Cheiro do Ralo",
+          descricao: "Um drama psicológico que acompanha a história de um jovem que retorna para sua cidade natal e se envolve em uma rede de crimes e mistérios.",
+          link: "https://www.adorocinema.com/filmes/filme-255644/",
+          linkcritica: "https://www.imdb.com/title/tt4323710/",
+          tags: "suspense, drama, psicológico"
       },
       {
-        titulo: "Bacurau",
-        descricao: "Um filme de ficção científica que explora temas como violência, xenofobia e a luta por sobrevivência em um futuro próximo.",
-        link: "https://www.adorocinema.com/filmes/filme-267424/",
-        linkcritica: "https://www.empireonline.com/movies/reviews/bacurau/",
-        tags: "ficção científica, violência, futuro"
+          titulo: "Bacurau",
+          descricao: "Um filme de ficção científica que explora temas como violência, xenofobia e a luta por sobrevivência em um futuro próximo.",
+          link: "https://www.adorocinema.com/filmes/filme-267424/",
+          linkcritica: "https://www.empireonline.com/movies/reviews/bacurau/",
+          tags: "ficção científica, violência, futuro"
       },
       {
-        titulo: "O Tempo e o Vento",
-        descricao: "Uma trilogia épica que retrata a história do Rio Grande do Sul desde o século XIX até os dias atuais.",
-        link: "https://www.adorocinema.com/filmes/filme-34888/",
-        linkcritica: "https://www.imdb.com/title/tt0410142/",
-        tags: "época, histórico, drama"
+          titulo: "O Tempo e o Vento",
+          descricao: "Uma trilogia épica que retrata a história do Rio Grande do Sul desde o século XIX até os dias atuais.",
+          link: "https://www.adorocinema.com/filmes/filme-34888/",
+          linkcritica: "https://www.imdb.com/title/tt0410142/",
+          tags: "época, histórico, drama"
       },
       {
-        titulo: "Aquarius",
-        descricao: "Um drama que retrata a luta de uma arquiteta para manter seu apartamento em um prédio que será demolido para a construção de um novo empreendimento.",
-        link: "https://www.adorocinema.com/filmes/filme-250142/",
-        linkcritica: "https://www.imdb.com/title/tt4571114/",
-        tags: "drama, social, resistência"
+          titulo: "Aquarius",
+          descricao: "Um drama que retrata a luta de uma arquiteta para manter seu apartamento em um prédio que será demolido para a construção de um novo empreendimento.",
+          link: "https://www.adorocinema.com/filmes/filme-250142/",
+          linkcritica: "https://www.imdb.com/title/tt4571114/",
+          tags: "drama, social, resistência"
       }
 ];
 
