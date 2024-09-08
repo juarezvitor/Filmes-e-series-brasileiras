@@ -2,7 +2,6 @@ function pesquisar() {
     // Seleciona a seção HTML onde os resultados da pesquisa serão exibidos.
     // O ID "resultados-pesquisa" é usado como referência para encontrar o elemento.
     let section = document.getElementById("resultados-pesquisa");
-    
     let campoPesquisa = document.getElementById("campo-pesquisa").value
 
     if(campoPesquisa == "") {
@@ -35,7 +34,7 @@ function pesquisar() {
         </div>
       `;
       }
-     if(!resultados){
+     if(!resultados,!tags ){
       resultados = "<p>Filme ou série não foi encontrado<p>"
      } 
     } 
