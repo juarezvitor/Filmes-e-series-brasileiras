@@ -34,5 +34,131 @@ let dados = [
         linkcritica: "https://www.oxentepipoca.com.br/post/cr%C3%ADtica-arcanjo-renegado-2%C2%AA-temporada",
         tags:"militar corrupto"
       },
+      {
+        titulo: "3%",
+        descricao: "Uma série distópica que acompanha um grupo de jovens que participam de um jogo cruel para garantir um futuro melhor.",
+        link: "https://www.netflix.com/br/title/80112114",
+        linkcritica: "https://www.adorocinema.com/filmes/filme-255581/",
+        tags: "distopia, futuro, suspense"
+      },
+      {
+        titulo: "Cidade de Deus",
+        descricao: "Um filme que retrata a vida em uma favela carioca, mostrando a violência, o tráfico de drogas e a luta pela sobrevivência.",
+        link: "https://www.adorocinema.com/filmes/filme-34889/",
+        linkcritica: "https://www.imdb.com/title/tt0317248/",
+        tags: "favela, crime, drama"
+      },
+      {
+        titulo: "Bacurau",
+        descricao: "Um filme de ficção científica que explora temas como violência, xenofobia e a luta por sobrevivência em um futuro próximo.",
+        link: "https://www.adorocinema.com/filmes/filme-267424/",
+        linkcritica: "https://www.empireonline.com/movies/reviews/bacurau/",
+        tags: "ficção científica, violência, futuro"
+      },
+      {
+        titulo: "O Esquadrão",
+        descricao: "Uma série policial que acompanha uma equipe de elite da polícia militar que luta contra o crime organizado no Rio de Janeiro.",
+        link: "https://globoplay.globo.com/o-esquadrao/t/jqvngb9dQG/?origemId=91698",
+        linkcritica: "https://www.ofuxico.com.br/noticias/tv/o-esquadrao-serie-da-globoplay-ganha-trailer-e-data-de-estreia--20230120174149.html",
+        tags: "policial, ação, crime"
+      },
+      {
+        titulo: "As Boas Maneiras",
+        descricao: "Um filme de terror que mistura elementos sobrenaturais com a realidade social brasileira, abordando temas como racismo e desigualdade social.",
+        link: "https://www.adorocinema.com/filmes/filme-255581/",
+        linkcritica: "https://www.timeout.com/rio-de-janeiro/filme/as-boas-maneiras",
+        tags: "terror, sobrenatural, social"
+      },
+      {
+        titulo: "A Divisão",
+        descricao: "Uma série policial que acompanha o trabalho de uma equipe especializada em crimes de alta complexidade.",
+        link: "https://globoplay.globo.com/a-divisao/t/jqvngb9dQG/?origemId=91698",
+        linkcritica: "https://www.ofuxico.com.br/noticias/tv/a-divisao-serie-da-globoplay-ganha-trailer-e-data-de-estreia--20230120174149.html",
+        tags: "policial, suspense, investigação"
+      },
+      {
+        titulo: "O Mecanismo",
+        descricao: "Uma série que explora o universo da corrupção política no Brasil, inspirada em fatos reais.",
+        link: "https://www.netflix.com/br/title/80112114",
+        linkcritica: "https://www.adorocinema.com/filmes/filme-255581/",
+        tags: "corrupção, política, suspense"
+      },
+      {
+        titulo: "A Mata Negra",
+        descricao: "Um filme de terror que se passa em uma pequena cidade e explora temas como lendas urbanas e possessão demoníaca.",
+        link: "https://www.adorocinema.com/filmes/filme-267424/",
+        linkcritica: "https://www.empireonline.com/movies/reviews/bacurau/",
+        tags: "terror, sobrenatural, lendas"
+      },
+      {
+        titulo: "A Divisão",
+        descricao: "Uma série policial que acompanha o trabalho de uma equipe especializada em crimes de alta complexidade.",
+        link: "https://globoplay.globo.com/a-divisao/t/jqvngb9dQG/?origemId=91698",
+        linkcritica: "https://www.ofuxico.com.br/noticias/tv/a-divisao-serie-da-globoplay-ganha-trailer-e-data-de-estreia--20230120174149.html",
+        tags: "policial, suspense, investigação"
+      }
+      {
+        titulo: "Central do Brasil",
+        descricao: "Uma história emocionante sobre uma senhora que escreve cartas para pessoas analfabetas e encontra uma criança perdida no caminho.",
+        link: "https://www.adorocinema.com/filmes/filme-11710/",
+        linkcritica: "https://www.imdb.com/title/tt0118799/",
+        tags: "drama, social, humanismo"
+      },
+      {
+        titulo: "O Que é Isso, Companheiro?",
+        descricao: "Um documentário que retrata a luta armada no Brasil durante a ditadura militar.",
+        link: "https://www.adorocinema.com/filmes/filme-14542/",
+        linkcritica: "https://www.imdb.com/title/tt0108090/",
+        tags: "documentário, história, política"
+      },
+      {
+        titulo: "O Auto da Compadecida",
+        descricao: "Uma adaptação cinematográfica da peça de Ariano Suassuna, que conta a história de João Grilo e Chicó em um mundo fantástico e cheio de humor.",
+        link: "https://www.adorocinema.com/filmes/filme-24070/",
+        linkcritica: "https://www.imdb.com/title/tt0332452/",
+        tags: "comédia, fantasia, regional"
+      },
+      {
+        titulo: "Que Horas Ela Volta?",
+        descricao: "Um drama social que aborda a questão das empregadas domésticas no Brasil, mostrando as relações entre patrões e empregadas e as dificuldades da vida na periferia.",
+        link: "https://www.adorocinema.com/filmes/filme-250143/",
+        linkcritica: "https://www.imdb.com/title/tt4132732/",
+        tags: "drama, social, desigualdade"
+      },
+      {
+        titulo: "Tropa de Elite",
+        descricao: "Um filme que retrata a violência policial no Rio de Janeiro e as dificuldades de combater o crime organizado.",
+        link: "https://www.adorocinema.com/filmes/filme-34890/",
+        linkcritica: "https://www.imdb.com/title/tt0450259/",
+        tags: "ação, policial, violência"
+      },
+      {
+        titulo: "O Cheiro do Ralo",
+        descricao: "Um drama psicológico que acompanha a história de um jovem que retorna para sua cidade natal e se envolve em uma rede de crimes e mistérios.",
+        link: "https://www.adorocinema.com/filmes/filme-255644/",
+        linkcritica: "https://www.imdb.com/title/tt4323710/",
+        tags: "suspense, drama, psicológico"
+      },
+      {
+        titulo: "Bacurau",
+        descricao: "Um filme de ficção científica que explora temas como violência, xenofobia e a luta por sobrevivência em um futuro próximo.",
+        link: "https://www.adorocinema.com/filmes/filme-267424/",
+        linkcritica: "https://www.empireonline.com/movies/reviews/bacurau/",
+        tags: "ficção científica, violência, futuro"
+      },
+      {
+        titulo: "O Tempo e o Vento",
+        descricao: "Uma trilogia épica que retrata a história do Rio Grande do Sul desde o século XIX até os dias atuais.",
+        link: "https://www.adorocinema.com/filmes/filme-34888/",
+        linkcritica: "https://www.imdb.com/title/tt0410142/",
+        tags: "época, histórico, drama"
+      },
+      {
+        titulo: "Aquarius",
+        descricao: "Um drama que retrata a luta de uma arquiteta para manter seu apartamento em um prédio que será demolido para a construção de um novo empreendimento.",
+        link: "https://www.adorocinema.com/filmes/filme-250142/",
+        linkcritica: "https://www.imdb.com/title/tt4571114/",
+        tags: "drama, social, resistência"
+      }
 ];
 
