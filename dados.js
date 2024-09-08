@@ -91,13 +91,6 @@ let dados = [
         tags: "terror, sobrenatural, lendas"
       },
       {
-        titulo: "A Divisão",
-        descricao: "Uma série policial que acompanha o trabalho de uma equipe especializada em crimes de alta complexidade.",
-        link: "https://globoplay.globo.com/a-divisao/t/jqvngb9dQG/?origemId=91698",
-        linkcritica: "https://www.ofuxico.com.br/noticias/tv/a-divisao-serie-da-globoplay-ganha-trailer-e-data-de-estreia--20230120174149.html",
-        tags: "policial, suspense, investigação"
-      },
-      {
         titulo: "Central do Brasil",
         descricao: "Uma história emocionante sobre uma senhora que escreve cartas para pessoas analfabetas e encontra uma criança perdida no caminho.",
         link: "https://www.adorocinema.com/filmes/filme-11710/",
